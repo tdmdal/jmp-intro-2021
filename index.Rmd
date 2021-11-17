@@ -15,7 +15,8 @@ title: "JMP Quick Intro"
 
 ### Data
 
-* Download the [companies.csv](companies.csv) dataset for the workshop.
+* [companies.csv](companies.csv)
+* [companies_part1.jmp](companies_part1.jmp) & [companies_part2.jmp](companies_part2.jmp)
 
 
 ### Getting-started Resources
