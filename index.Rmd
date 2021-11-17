@@ -1,0 +1,31 @@
+<style>
+ol ul {
+    margin-bottom: 10px;
+}
+</style>
+
+---
+title: "JMP Quick Intro"
+---
+
+### Slides
+
+* [Slides](jmp_intro.pdf)
+
+
+### Data
+
+* Download the [companies.csv](companies.csv) dataset for the workshop.
+
+
+### Getting-started Resources
+
+* [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html){target="_blank"}
+
+* [JMP Learning Library](https://www.jmp.com/en_us/learning-library.html){target="_blank"}
+
+* [Statistical Thinking for Industrial Problem Solving](https://www.coursera.org/learn/statistical-thinking-applied-statistics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)

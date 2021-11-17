@@ -1,0 +1,13 @@
+name: "JMP Tutorial"
+output_dir: "docs"
+include: ["*.pdf"]
+exclude: ["*.pptx"]
+navbar:
+  title: "JMP Quick Intro (2021)"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
